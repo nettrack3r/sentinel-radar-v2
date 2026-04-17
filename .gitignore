@@ -1,0 +1,6 @@
+*.log
+*.csv
+/tmp/
+*.tmp
+.DS_Store
+Thumbs.db

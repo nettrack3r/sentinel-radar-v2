@@ -1,0 +1,3 @@
+# Add SSIDs or MACs
+TestNetwork
+AA:BB:CC:DD:EE:FF
